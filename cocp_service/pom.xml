@@ -21,6 +21,15 @@
             <artifactId>cocp_dao</artifactId>
             <version>${cocp-dao}</version>
         </dependency>
+
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-jwt</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
